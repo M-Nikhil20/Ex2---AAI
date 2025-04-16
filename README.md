@@ -1,10 +1,9 @@
 
 
 <h1 align =center> IMPLEMENTATION OF EXACT INFERENCE METHOD OF BAYESIAN NETWORK </h1>
-<H3> NAME: Ronick Aakshath P </H3>
-<H3> REGISTER NUMBER: 212222240084 </H3>
+<H3> NAME: Nikhil M </H3>
+<H3> REGISTER NUMBER: 212222230095 </H3>
 <H3> EXPERIMENT NO: 02 </H3>
-<H3> DATE: </H3>
 
 ## AIM:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
